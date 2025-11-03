@@ -1,12 +1,15 @@
-# React + Vite
+## Virtual Classroom 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based virtual classroom solution that replicates the physical classroom experience in a digital environment. This platform enables real-time collaboration between students and teachers with seamless video conferencing, interactive whiteboards, and document sharing capabilities.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+Video Conferencing: Real-time video calls with participant grid layout and live status indicators
 
-## Expanding the ESLint configuration
+Document Sharing: Drag-and-drop file sharing with live previews
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Real-time Chat: Text messaging with typing indicators and message filtering
+
+## Tech Stack
+React,Firebase,Netlify
+
